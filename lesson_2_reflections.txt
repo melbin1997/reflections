@@ -12,14 +12,24 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	By changing the files for the particular logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	We can use branches, when we need to add an experimental feature, but is not sure ,if it works. 
+
 
 How do the diagrams help you visualize the branch structure?
+	By ordering were the branches are .
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	The commits of the two branches are merged into one commit. We represent it in diagram , so that we an understand it.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+	pros
+		Less time consuming
+		We don't need to bother about the new code
+	cons
+		Same function may have different code which can be confusing.
