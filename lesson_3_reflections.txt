@@ -1,2 +1,4 @@
 When would you want to create a remote repository rather than keeping all your work local?
-  When we do a project as a team, we need remote repository so that all the members can view the progress.
+ 	When we do a project as a team, we need remote repository so that all the members can view the progress.
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	If we are doing the project in a team, then we need to only pull the files when we need to as other people can change the file.
