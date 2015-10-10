@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 	 Branches are used so that we can fix a bug or add new experimental features to the file without breaking the whole program.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	So that we can change the file when we are offline.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	The easier way would be to make the other person understand our idea by comments, images or expressing it in a video.
+	The harder way would be sending the file as email .
